@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=5.3.2",
+        "mashape/unirest-php": "^3.0"
+    }
+}
